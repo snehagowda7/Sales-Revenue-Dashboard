@@ -33,11 +33,17 @@ This project is an interactive Power BI dashboard built using the AdventureWorks
 
 ## 📈 Dashboard Preview
 
-> Upload your dashboard screenshots here.
+### Executive Dashboard
+![Executive Dashboard](Dashboard overview.png)
 
-Example:
+### Product Detail
+![Product Detail](Product-details.png)
 
-![Dashboard](dashboard.png)
+### Customer Detail
+![Customer Detail](Customer details.png)
+
+### Sales Map
+![Sales Map](Sales map.png)
 
 ---
 
@@ -59,4 +65,4 @@ Example:
 **Sneha G**
 
 LinkedIn: https://www.linkedin.com/in/sneha-g-207a232b1
-![Dashboard](dashboard.png)
+
