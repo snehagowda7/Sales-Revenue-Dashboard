@@ -35,7 +35,7 @@ This project is an interactive Power BI dashboard built using the AdventureWorks
 
 ### Executive Dashboard
 
-![Executive Dashboard](Dashboardoverview.png)
+![Executive Dashboard](Dashboard-overview.png)
 
 ### Product Detail Dashboard
 
@@ -43,11 +43,11 @@ This project is an interactive Power BI dashboard built using the AdventureWorks
 
 ### Customer Detail Dashboard
 
-![Customer Detail](Customerdetails.png)
+![Customer Detail](Customer-details.png)
 
 ### Sales Map Dashboard
 
-![Sales Map](Salesmap.png)
+![Sales Map](Sales-map.png)
 
 
 ## 🎯 Skills Demonstrated
